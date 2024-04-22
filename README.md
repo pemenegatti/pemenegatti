@@ -1,7 +1,7 @@
 ### Olá! Eu sou Pedro Menegatti 👋
 
-- 🔭 Hoje eu trabalho com automação de app's
-- 🌱 Estudando Python
+- 🔭 QA Automation Tech Lead
+- 🌱 Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças!
 
 <div>
   <a href="https://github.com/pemenegatti">

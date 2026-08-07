@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou Pedro Menegatti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=QA+Automation+Tech+Lead;Robot+Framework+%7C+Selenium+%7C+Cypress;Java+%7C+Kotlin+%7C+Python+%7C+Ruby;API+Testing+%7C+Performance+Testing;CI%2FCD+%7C+AWS+%7C+Docker;Always+learning+new+technologies!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=QA+Automation+Tech+Lead;Robot+Framework+%7C+Selenium+%7C+Cypress;Java+%7C+Python+%7C+Ruby;API+Testing+%7C+Performance+Testing;CI%2FCD+%7C+AWS+%7C+Docker;Always+learning+new+technologies!" />
 </p>
 
 <p align="center">
